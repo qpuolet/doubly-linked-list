@@ -4,6 +4,8 @@ class Node {
         this.prev = prev;
         this.next = next;
     }
+
+    var anotherValue="true";
 }
 
 module.exports = Node;
