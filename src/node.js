@@ -5,7 +5,6 @@ class Node {
         this.next = next;
     }
 
-    var anotherValue="true";
 }
 
 module.exports = Node;
